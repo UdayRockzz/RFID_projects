@@ -1,2 +1,2 @@
 # RFID_projects
-various version conencting RFID with microcontrollers
+Different ways to connect with RFID + microcontrollers.
